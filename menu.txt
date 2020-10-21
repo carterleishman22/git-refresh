@@ -11,3 +11,5 @@ Drinks
 Coke 
 Fanta
 Beer
+Vodka
+Whiskey
